@@ -1,2 +1,2 @@
-# ITU-NUM-v1.gethub.io
+# ITU-NUM-v1.github.io
 Labs
